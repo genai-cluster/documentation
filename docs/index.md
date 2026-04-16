@@ -138,3 +138,7 @@ Alle Optionen der Befehle finden sich auf den jeweiligen Manpages. Diese finden 
 ## Tipps und Problembehebung
 - Nachdem ein Job submittet wurde, bietet es sich an, noch einmal mit `squeue` den Status des Jobs zu überprüfen um Mögliche Fehler zu erkennen. Überschreitungen der Ressourcenlimits werden z.B. nur dort angezeigt.
 - Der Fehler `Unable to allocate resources: Requested partition configuration not available now` wird meist durch ein fehlendes Zeitlimit oder eine Anfrage von mehr Ressourcen als physisch verfügbar ausgelöst
+
+## Support
+
+Bei Fragen und technischen Problemen sind wir erreichbar unter: steffen.ottow@tu-clausthal.de.
