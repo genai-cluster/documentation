@@ -141,4 +141,4 @@ Alle Optionen der Befehle finden sich auf den jeweiligen Manpages. Diese finden 
 
 ## Support
 
-Bei Fragen und technischen Problemen sind wir erreichbar unter: steffen.ottow@tu-clausthal.de.
+Bei Fragen und technischen Problemen sind wir erreichbar unter: [steffen.ottow@tu-clausthal.de](mailto:steffen.ottow@tu-clausthal.de).

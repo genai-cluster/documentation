@@ -15,7 +15,7 @@ source_suffix = {
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'furo'
-html_logo = '_static/logo.png'
+html_logo = '_static/logotransparent.png'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 html_js_files = ['disable-dark-mode.js']
