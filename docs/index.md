@@ -1,4 +1,4 @@
-# CORE GenAI-Cluster Dokumentation
+# GenAI-Cluster Dokumentation
 ## Allgemeines
 ### Der Cluster
 Der GenAI Cluster besteht aus fünf Nodes.
