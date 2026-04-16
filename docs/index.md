@@ -3,6 +3,8 @@
 ### Der Cluster
 Der GenAI Cluster des DIGIT besteht aus fünf Nodes.
 
+![Cluster Struktur](_static/structure.png)
+
 | Nodes | Beschreibung |
 |---|---|
 | `cloud-202`, `cloud-203` | Worker-Node mit jeweils 4 NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs |
