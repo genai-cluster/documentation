@@ -1,4 +1,4 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy Sphinx Docs to GitHub Pages
 
 on:
   push:
@@ -19,7 +19,12 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r docs/requirements.txt
 
-      - name: Deploy
-        run: mkdocs gh-deploy --force
+      - name: Build docs
+        run: sphinx-build -b html docs docs/_build/html
+
+      - name: Deploy to GitHub Pages
+        run: |
+          pip install ghp-import
+          ghp-import -n -p -f docs/_build/html

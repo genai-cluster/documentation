@@ -1,0 +1,7 @@
+h1 { font-size: 2.0em !important; }
+h2 { font-size: 1.5em !important; }
+.caption { font-weight: 700 !important; }
+.sidebar-search-container { margin-left: 0.7rem !important; margin-right: 0.7rem !important; }
+.sidebar-brand-text { display: none !important; }
+.theme-toggle { display: none !important; }
+.theme-toggle-container { display: none !important; }
